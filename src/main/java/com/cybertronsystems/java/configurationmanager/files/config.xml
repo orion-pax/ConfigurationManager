@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Purpose     :Project configuration settings
+Date        :27/06/2017
+Category    :Configuration
+-->
+<config>
+    <setting key="appId" value="644e1dd7-2a7f-18fb-b8ed-ed78c3f92c2b"/>
+    <setting key="email" value="yourmail@mail.com"/>
+    <setting key="dbUser" value="root"/>
+    <setting key="ftpIp" value="127.0.0.1"/>
+    <setting key="serviceEndpoint" value="http://127.0.0.1/api/v1/"/>
+    <setting key="password" value="password"/>
+    <setting key="emailPort" value="25"/>    
+</config>
